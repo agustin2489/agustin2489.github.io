@@ -1,0 +1,3 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom"><title>nullsky</title><link href="/" rel="alternate"></link><link href="/feeds/d.atom.xml" rel="self"></link><id>/</id><updated>2017-04-08T23:44:00+02:00</updated><entry><title>Hello World</title><link href="/hello-world.html" rel="alternate"></link><updated>2017-04-08T23:44:00+02:00</updated><author><name>D</name></author><id>tag:,2017-04-08:hello-world.html</id><summary type="html">&lt;p&gt;I took forever on making a blog. I knew WordPress isn't a good idea and I didn't want to run Apache on my infrastructure. A friend told me about static site generators and here I am.&lt;/p&gt;
+&lt;p&gt;Hello world via Pelican :)&lt;/p&gt;</summary></entry></feed>
